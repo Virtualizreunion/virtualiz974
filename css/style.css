@@ -624,7 +624,12 @@ section {
 }
 /* ******************** TARIFS ******************** */
 
-
+#tarifs {
+  width: 100%;
+  background-color: rgba(94, 5, 108, 0.177);
+  background-size :cover;
+  
+}
 h2 {
   font-size: 32px;
   font-weight: bold;
