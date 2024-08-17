@@ -636,13 +636,14 @@ section {
   animation: shockwaveJump 1s ease-out infinite;
 }
 
-.tel img {
   
-  width: 60%;
+  .tel img {
+  
+  width: 40%;
   margin-left: 10%;
-  
+  padding: 1px 50px 30px 20px;
 
-}
+ }
 
 @keyframes shockwaveJump {
   0% {
