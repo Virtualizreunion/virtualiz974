@@ -751,7 +751,8 @@ a {
 
 .align {
   clear: both;
-  margin: 90px auto 20px;
+  margin-top: 25px;
+  margin-bottom: 10%;
   width: 100%;
   max-width: 1170px;
   
