@@ -640,7 +640,6 @@ section {
   .tel img {
   
   width: 40%;
-  margin-left: 10%;
   margin-bottom: 50%;
   padding: 10px;
 
@@ -923,11 +922,11 @@ Table of Contents
 
 figcaption {
   padding-left: 40px;
-  text-align: left;
+  text-align: center;
   position: absolute;
   top: 0%;
   left: 160px;
-  width: 910px;
+  width: 810px;
 }
 
 figcaption h1 {
